@@ -1,2 +1,2 @@
-#include <stddef.h>
+#!/bin/bash
 python3 $PYFILE
